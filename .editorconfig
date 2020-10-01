@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# IDE0063: Use simple 'using' statement
+csharp_prefer_simple_using_statement = false:suggestion
+
+# IDE0049: Use framework type
+dotnet_style_predefined_type_for_locals_parameters_members = false:suggestion
+
+# IDE0042: Deconstruct variable declaration
+csharp_style_deconstructed_variable_declaration = false:suggestion
